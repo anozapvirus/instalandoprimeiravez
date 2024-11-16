@@ -7,6 +7,6 @@ sudo apt install -y git && git clone https://github.com/anozapvirus/instalandopr
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-sudo chmod -R 777 instaladorwhatsapsaas-main && cd instaladorwhatsapsaas-main && sudo ./install_primaria
+cd /root/instalandoprimeiravez && sudo chmod +x install_primaria && sudo ./install_primaria
 ```
 
