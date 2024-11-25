@@ -22,30 +22,40 @@ print_banner() {
   printf "\n\n"
 
   printf "${GREEN}";
-  printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
-  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
-  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
-  printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
-  printf "                                                    █  ▄█▀        \n";
-  printf "                                                    ▀▀▀▀          \n";
+  printf " . _  .    .__  .  .  __,--'                  \n"
+  printf "  (_)    ' /__\\ __,--'                       \n"
+  printf "'  .  ' . '| o|'                             \n"
+  printf "          [IIII]`--.__                       \n"
+  printf "           |  |       `--.__                 \n"
+  printf "           | :|             `--.__           \n"
+  printf "           |  |                   `--.__     \n"
+  printf "._,,.-,.__.'__`.___.,.,.-..,_.,.,.,-._..`--.. \n"
   printf "${NC}";
 
   printf "\n"
 
 printf "${GREEN}";  
-printf "██████╗░██╗░░░░░░██╗░░░░░░░██╗\n";
-printf "██╔══██╗██║░░░░░░██║░░██╗░░██║\n";
-printf "██████╔╝██║░░░░░░╚██╗████╗██╔╝\n";
-printf "██╔═══╝░██║░░░░░░░████╔═████║░\n";
-printf "██║░░░░░███████╗░░╚██╔╝░╚██╔╝░\n";
-printf "╚═╝░░░░░╚══════╝░░░╚═╝░░░╚═╝░░\n";
+  printf " __     __  _____               _   _   _____    ______  __     __\n"
+  printf " \\ \\   / / |  __ \\      /\\     | \\ | | |  __ \\  |  ____| \\ \\    / /\n"
+  printf "  \\ \\_/ /  | |__) |    /  \\    |  \\| | | |  | | | |__       \\ \\  / / \n"
+  printf "   \\   /   |  _  /    / /\\ \\   | . ` | | |  | | |  __|        \\ \\/ /  \n"
+  printf "    | |    | | \\ \\   / ____ \\  | |\\  | | |__| | | |____       \\  /   \n"
+  printf "    |_|    |_|  \\_\\ /_/    \\_\\ |_| \\_| |_____/  |______|      \\/    \n"
 printf "${NC}";
   
   
 
   printf "\n"
 }
+
+
+
+
+
+
+
+
+
+
+
+
